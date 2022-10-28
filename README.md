@@ -1,5 +1,3 @@
-# schedo
+# crudpegawai
 
-aplikasi management jadwal dan tugas, bisa juga untuk membuat to do list
-menggunakan framework codeigniter 3
-gi
+Aplikasi web data pegawai menggunakan codeigniter 3
